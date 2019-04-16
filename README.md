@@ -1,6 +1,6 @@
 # ICSE'20 Artifact Track: Call for Submissions
 
-Authors of **papers accepted to the 2020 Technical Track** are invited to submit an artifact to the ICSE Artifact Track
+Authors of **papers accepted to the 2020 Technical/SEIP/NIER/SEET/SEIS Track** are invited to submit an artifact to the ICSE Artifact Track
 for evaluation as a candidate **reusable, available, replicated or reproduced** artifact.
 If the artifact is accepted it will receive one of the badges below on the front page of their paper and in the proceedings.
 
@@ -149,7 +149,7 @@ TBD
 
 ## IMPORTANT DATES
 
-Jan15: Pre-submission registration   
+Jan19: Pre-submission registration   
 Jan27: Submission deadline   
 Feb01: Review period (\*)   
 Feb20: Rebuttal period ends.   
