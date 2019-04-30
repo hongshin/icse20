@@ -1,22 +1,22 @@
 # ICSE'20 Artifact Track: Call for Submissions
 
-Authors of **papers accepted to the 2020 Technical/SEIP/NIER/SEET/SEIS Track** are invited to submit an artifact to the ICSE Artifact Track
-for evaluation as a candidate **reusable, available, replicated or reproduced** artifact.
-If the artifact is accepted it will receive one of the badges below on the front page of their paper and in the proceedings.
+Authors of **papers accepted to the 2020 Technical/SEIP/NIER/SEET/SEIS Track** are invited to submit artifacts associated with those papers to the ICSE Artifact Track
+for evaluation as candidate **reusable, available, replicated or reproduced** artifacts`.
+If those artifact(s) are  accepted, they will each receive one (and only one) of the badges below on the front page of the authors' paper and in the proceedings.
 
-Authors of any prior SE work (published at ICSE or elsewhere) are are invited to submit an artifact to the ICSE Artifact Track
+Authors of any prior SE work (published at ICSE or elsewhere) are invited to submit an artifact to the ICSE Artifact Track
 for evaluation as a candidate **replicated or reproduced** artifact.
 If the artifact is accepted:
 
-- Authors will be invited to give a lightning talk on this work at ICSE'20
-- We will work with the IEEE Xplore and ACM Portal administrator to add a badge to the electronic version of their paper.
+- Authors will be invited to give lightning talks on this work at ICSE'20
+- We will work with the IEEE Xplore and ACM Portal administrator to add  badges to the electronic versions of the authors' paper(s).
 
 <table>
 <thead></thead>
-<tbody>
+<tbody(s)>
 <tr><td><strong>Functional</strong>	</td><td align="center"> <strong>Reusable</strong> </td><td align="center"> <strong>Available</strong></td><td align="center"> <strong>Replicated</strong> </td><td align="center"> <strong>Reproduced</strong> </td></tr>
 <tr><td>No Badge </td><td align="center"> <dl><img src="https://2019.icse-conferences.org/getImage/orig/red.jpg" alt=""></dl>  </td><td align="center"> <dl><img src="https://2019.icse-conferences.org/getImage/orig/green.jpg" alt=""></dl>	   </td><td align="center">  <dl><img src="https://2019.icse-conferences.org/getImage/orig/blue.jpg" alt=""></dl> </td><td align="center">  <dl><img src="https://2019.icse-conferences.org/getImage/orig/deepBlue.jpg" alt=""></dl> </td></tr>
-<tr><td> <!--Functional--> Artifacts documented, consistent, complete, exercisable, and include appropriate evidence of verification and validation </td><td align="center"> <!--Reusable--> Functional + very carefully documented and well-structured to the extent that reuse and repurposing is facilitated. In particular, norms and standards of the research community for artifacts of this type are strictly adhered to. </td><td align="center"> <!--Available-->  Functional + Placed on a publicly accessible archival repository. A DOI or link to this repository along with a unique identifier for the object is provided. </td><td align="center"> <!--Replicated--> Available + main results of the paper have been obtained in a subsequent study by a person or team other than the authors, using, in part, artifacts provided by the author. </td><td align="center"> <!--Reproduced--> Available + The main results of the paper have been independently obtained in a subsequent study by a person or team other than the authors, without the use of author-supplied artifacts.</td></tr>
+<tr><td> <!--Functional--> Artifacts documented, consistent, complete, exercisable, and include appropriate evidence of verification and validation </td><td align="center"> <!--Reusable--> Functional + very carefully documented and well-structured to the extent that reuse and repurposing is facilitated. In particular, norms and standards of the research community for artifacts of this type are strictly adhered to. </td><td align="center"> <!--Available-->  Functional + placed on a publicly accessible archival repository. A DOI or link to this repository along with a unique identifier for the object is provided. </td><td align="center"> <!--Replicated--> Available + main results of the paper have been obtained in a subsequent study by a person or team other than the authors, using, in part, artifacts provided by the author. </td><td align="center"> <!--Reproduced--> Available + the main results of the paper have been independently obtained in a subsequent study by a person or team other than the authors, without the use of author-supplied artifacts.</td></tr>
 </tbody>
 </table>
 
@@ -50,13 +50,17 @@ There will be two ICSE 2020 Best Artifact Awards to recognize the effort of auth
 
 ### For Replicated and Reproduced Badges
 
-For the badges “replicated” and “reproduced” authors will need to offer appropriate documentation that their artifacts have reached that stage. 
+For “replicated” and “reproduced” badges, authors will need to offer appropriate documentation that their artifacts have reached that stage. 
 
 For these badges, the submission process is to offer a one page (max) abstract in PDF format:
 
 - TITLE: **A (Partial)? (Replication|Reproduction) of XYZ**. Please add the term **partial** to your title if only some of the original work could be replicated/reproduced.
 - WHO: name the original authors (and paper) and the authors that performed the replication/reproduction.
-  Include contact information (emails). Mark one author as the corresponding author.
+  Include contact information (emails). Mark one author as the corresponding author.     
+  **IMPORTANT**: include also a web link to a publically avaialble URL directory containing (a)the original paper
+  (that is being reproduced) and (b)any subsequent paper(s)/documents/reports that do the reproduction.     
+  **IMPORTANT**: include also a web link to a publically avaialble URL directory containing (a)the original paper
+  (that is being reproduced) and (b)any subsequent paper(s)/documents/reports that do the reproduction.
 - WHAT: describe the "thing" being replicated/reproduced;
 - WHY: clearly state why that "thing" is interesting/important;
 - HOW: say how it was done first;
@@ -67,63 +71,67 @@ By January 15, 2020 register your research artifact at the ICSE submission site 
 
 Two PC members will review each abstract, possibly reaching out to the authors of the abstract or original paper. Abstracts will be ranked as follows.
 
-- If pc members do not find sufficient substantive evidence for replication/reproduction, the abstract will be rejected.
-- Any abstract that is overly critical of prior work will be rejected (\*).
+- If PC members do not find sufficient substantive evidence for replication/reproduction, the abstract will be rejected.
+- Any abstract that is judged to be unncessarily  critical of prior work will be rejected (\*).
 - The remaining abstracts will be sorted according to (a) interestingness and (b) correctness.
 - The top ranked abstracts will be invited to give lightning talks.
 
 (\*) Our goal is to foster a positive environment that supports and
 rewards researchers for conducting replications and reproductions. To
 that end, we require that all abstracts and presentations pay due respect
-to the work they are reproducing/replicating. Criticisms of prior work
+to the work they are reproducing/replicating. Criticism of prior work
 is acceptable only as part of a balanced and substantive discussion of
 prior accomplishments.
 
-For replicated and reproduced  badges, results will be notified at the end of the reviewing process.
+For replicated and reproduced  badges, authors will be notified at the end of the reviewing processs via
+badges attached within Github by the PC chairs.
 
 ### For Reusable and Available Badgers
 
-For the badges **reusable** and **available** badges, authors must supply some download information showing how
+For the **reusable** and **available** badges, authors must offer  "download information" showing how
 reviewers can access and execute (if appropriate) their artifact.
 
 Authors of the papers accepted to the Technical Track must perform the following steps to submit an artifact:
 
-- Preparing the artifact
-- Making the artifact available
-- Documenting the artifact
-- Submitting the artifact
+- Prepare the artifact
+- Make the artifact available
+- Document the artifact
+- Submit the artifact
 
 **1. PREPARING THE ARTIFACT**
 
 There are two options depending on the nature of the artifacts: Installation Package or Simple Package. In both cases, the configuration and installation for the artifact should take less than 30 minutes. Otherwise the artifact is unlikely to be endorsed simply because the committee will not have sufficient time to evaluate it.
 
-_Installation Package_ If the artifact consists of a tool or software system, then the authors need to prepare an installation package so that the tool can be installed and run in the evaluator’s environment. Provide enough associated instruction, code, and data such that some CS person with a reasonable knowledge of scripting, build tools, etc. could install, build, and run the code. If the artifact contains or requires the use of a special tool or any other non-trivial piece of software the authors must provide a VirtualBox VM image or a Docker container image with a working environment containing the artifact and all the necessary tools.
+- _Installation Package_s:  If the artifact consists of a tool or software system, then the authors need to prepare an installation package so that the tool can be installed and run in the evaluator’s environment. Provide enough associated instruction, code, and data such that some CS person with a reasonable knowledge of scripting, build tools, etc. could install, build, and run the code. If the artifact contains or requires the use of a special tool or any other non-trivial piece of software the authors must provide a VirtualBox VM image or a Docker container image with a working environment containing the artifact and all the necessary tools.
+Note that
+we expect that the artifacts will have been vetted on a clean machine before submission.
 
-We expect that the artifacts have been vetted on a clean machine before submission.
-
-_Simple Package_ If the artifact only contains documents which can be used with a simple text editor, a PDF viewer, or some other common tool (e.g., a spreadsheet program in its basic configuration) the authors can just save all documents in a single package file (zip or tar.gz).
+- _Simple Package_: If the artifact contains only documents that can be used with a simple text editor, a PDF viewer, or some other common tool (e.g., a spreadsheet program in its basic configuration) the authors can just save all documents in a single package file (zip or tar.gz).
 
 **2. MAKING THE ARTIFACT AVAILABLE**
 
-The authors need to make the packaged artifact (installation package or simple package) available so that the Evaluation Committee can access it. We suggest a link to a public repository or to a single archive file in a widely available archive format. If the authors are aiming for the badges “available” and beyond the artifact needs to publicly accessible. In other cases, the artifacts do not necessarily have to be publicly accessible for the review process. In this case, the authors are asked to provide a private link or a password-protected link.
+Authors need to make the packaged artifact (installation package or simple package) available so that the Evaluation Committee can access it. We suggest a link to a public repository or to a single archive file in a widely available archive format. If the authors are aiming for the badges “available” and beyond the artifact needs to publicly accessible. In other cases, the artifacts do not necessarily have to be publicly accessible for the review process. In this case, the authors are asked to provide a private link or a password-protected link.
 
 **3. DOCUMENTING THE ARTIFACT**
 
-The authors need to write and submit a documentation explaining how to obtain the artifact package, how to unpack the artifact, how to get started, and how to use the artifacts in more detail. The artifact submission must only describe the technicalities of the artifacts and uses of the artifact that are not already described in the paper. The submission should contain the following documents (in 
+Authors need to write and submit  documentation explaining how to obtain the artifact package, how to unpack the artifact, how to get started, and how to use the artifacts in sufficient detail. The artifact submission must describe 
+only the technicalities of the artifacts and uses of the artifact that are not already described in the paper. The submission should contain the following documents (in 
 **markdown** plain text format) in a zip archive:
 
 - A _CONTACT.md_ file listing emails and **github ids** (important) for the authors. Please mark one author as the _corresponding author_.
-- A _README.md_ main file describing what the artifact does and where it can be obtained (with hidden links and access password if necessary). Also, there should be a clear description how to reproduce the results presented in the paper.
+- A _README.md_ main file describing what the artifact does and where it can be obtained (with hidden links and access password if necessary). Also, there should be a clear description of how to reproduce the results presented in the paper.
 - A _STATUS.md_ file stating what kind of badge(s) the authors are applying for as well as the reasons why the authors believe that the artifact deserves that badge(s).
 - A _LICENSE.md_ file describing the distribution rights. Note that to score "available" or higher, then that license needs to be some form of open source license.
-- An _INSTALL.md_ file with installation instructions. These instructions should include notes illustrating a very basic usage example or a method to test the installation. This could be, for instance, on what output to expect that confirms that the code is installed and working; and the code is doing something interesting and useful.
+- An _INSTALL.md_ file with installation instructions. These instructions should include notes illustrating a very basic usage example or a method to test the installation. This could be, for instance, information 
+on what output to expect that confirms that the code is installed and working;  and that
+the code is doing something interesting and useful.
 - A copy of the accepted paper in pdf format.
 
 **4. SUBMITTING THE ARTIFACT**
 
-By January 15, 2020 register your research artifact at the ICSE submission site (URL TBD) by submitting an abstract describing your artifact. The abstract should include the paper title, the purpose of the research artifact, the badge(s) you are claiming, and the technology skills assumed by the reviewer evaluating the artifact. Please also mention if running your artifact requires specific Operation Systems or other environments.
+By January 15, 2020 register your research artifact at the ICSE submission site (URL TBD) by submitting an abstract describing your artifact. The abstract should include the paper title, the purpose of the research artifact, the badge(s) you are claiming, and the technology skills assumed to be held by  the reviewers evaluating the artifact. Please also mention if running your artifact requires specific Operating Systems or other environments.
 
-By January 27, 2020 complete your artifact submission by uploading the materials described above. Authors submitting an open source repository link, are expected to give a tag to time-stamp your submission. This tag should be added to README.md.  
+By January 27, 2020 complete your artifact submission by uploading the materials described above. Authors submitting an open source repository link are expected to give a tag to time-stamp their submission. This tag should be added to README.md.  
 
 For reusable and available badges, the review process will be interactive as follows:
 
@@ -138,7 +146,7 @@ resolve simple installation problems.
 - Reviewing will be on Github with reviewers commenting via anonymous Github ids. Authors should not comment until
 at least two reviewers have added comments. Earlier author comments will be deleted.
 - Authors are informed of the outcome and, in case of technical problems, they can help solve them during a
-brief 48-hour author response period. Authors may update their research artifact after submission only for changes requested
+brief 48-hour author response period. Authors may update their research artifacts after submission only for changes requested
 by reviewers in the rebuttal phase. 
 
 
